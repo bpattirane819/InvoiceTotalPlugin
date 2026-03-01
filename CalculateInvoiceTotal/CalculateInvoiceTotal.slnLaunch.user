@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\TestHarness\\TestHarness.csproj",
+        "Action": "Start",
+        "DebugTarget": "TestHarness"
+      },
+      {
+        "Path": "CalculateInvoiceTotal.csproj",
+        "Action": "Start",
+        "DebugTarget": "CalculateInvoiceTotal"
+      }
+    ]
+  }
+]

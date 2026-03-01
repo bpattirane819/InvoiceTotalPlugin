@@ -1,0 +1,1 @@
+pac modelbuilder build -o .\Models\EarlyBound -stf .\builderSettings.json
